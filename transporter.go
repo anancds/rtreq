@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	pb "github.com/bbengfort/rtreq/msg"
+	pb "github.com/anancds/rtreq/msg"
 	"github.com/gogo/protobuf/proto"
 	zmq "github.com/pebbe/zmq4"
 )

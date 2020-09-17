@@ -3,7 +3,7 @@ package rtreq
 import (
 	"fmt"
 
-	pb "github.com/bbengfort/rtreq/msg"
+	pb "github.com/anancds/rtreq/msg"
 	zmq "github.com/pebbe/zmq4"
 )
 
