@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bbengfort/rtreq"
+	"github.com/anancds/rtreq"
 	"github.com/joho/godotenv"
 	"github.com/urfave/cli"
 )
